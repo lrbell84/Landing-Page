@@ -29,16 +29,14 @@
   height: 50px;
   margin: 0 auto;
 }
-
-.landing__logo {
+.penguin__logo {
   width: 50px;
   text-align: left;
 }
-
 .penguin__h1 {
   color: #2f447c;
   font-family: "Staatliches", "Courier New", Courier, monospace;
-  font-size: 4em;
+  font-size: 2.5em;
 }
 .penguin__login-button {
   margin-left: 8ch;
@@ -55,7 +53,7 @@
   align-items: center;
   width: 350px;
   color: #2f447c;
-  background-color: lightcyan;
+  background-color: #fdfcf4;
   margin: 0 auto;
 }
 
@@ -73,7 +71,7 @@
 
 .sectioning {
   padding: 2ch;
- text-align: center;
+  text-align: center;
 }
 .sectioning__h2 {
   color: #70c3f3;
@@ -83,7 +81,6 @@
   margin: 2ch auto;
   width: 200px;
 }
-
 .sectioning__h3 {
   margin: 1ch;
   color: #70c3f3;
@@ -93,8 +90,7 @@
   padding: 2ch;
   text-align: center;
 }
-
-.hide__seek {
+.seek__artical {
   display: flex;
   flex-direction: columns;
   text-align: left;
